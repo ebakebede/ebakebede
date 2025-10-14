@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently ceo at [Dream Techs LLC](https://dreamtech.et)
 
-- 🌱 I’m currently learning **Backend Development(Bun) and NextJs**
-
 - 👨‍💻 All of our team projects are available at [Dreamtech.et](https://dreamtech.et/portfolio)
 
 - 📫 How to reach me **dreamtechplc@gmail.com**
