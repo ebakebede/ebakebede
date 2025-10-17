@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebakebede&label=Profile%20views&color=0e75b6&style=flat" alt="ebakebede" /> </p>
 
-- 🔭 I’m currently ceo at [Dream Techs LLC](https://dreamtech.et)
-
-- 👨‍💻 All of our team projects are available at [Dreamtech.et](https://dreamtech.et/portfolio)
-
+- 👨‍💻 All of my team projects are available at [Dreamtech.et](https://dreamtech.et/portfolio)
 - 📫 How to reach me **dreamtechplc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
